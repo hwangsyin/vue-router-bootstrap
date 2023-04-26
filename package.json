@@ -1,0 +1,18 @@
+{
+  "name": "vue-router-bootstrap",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "./node_modules/vite/bin/vite.js dev",
+    "build": "./node_modules/vite/bin/vite.js build",
+    "preview": "./node_modules/vite/bin/vite.js preview"
+  },
+  "devDependencies": {
+    "vite": "^4.3.1",
+    "@vitejs/plugin-vue": "^4.1.0"
+  },
+  "dependencies": {
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  }
+}
